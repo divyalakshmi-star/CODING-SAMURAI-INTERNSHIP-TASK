@@ -1,6 +1,6 @@
-# 🚢 Titanic Survival Prediction - Coding Samurai Internship
+        # 🚢 Titanic Survival Prediction - Coding Samurai Internship
 
-This repository contains my submission for the Titanic Classification project as part of my Data Science internship at Coding Samurai. The goal is to predict which passengers survived the Titanic shipwreck using Machine Learning.
+     This repository contains my submission for the Titanic Classification project as part of my Data Science internship at Coding Samurai. The goal is to predict which passengers survived the Titanic shipwreck using Machine Learning.
 
 ## 📊 Project Overview
 Using the classic Titanic dataset, I performed Exploratory Data Analysis (EDA) and built a classification model. The project focuses on data cleaning, feature engineering, and model evaluation.
@@ -29,8 +29,4 @@ In this project, I visualized:
    `pip install pandas seaborn matplotlib scikit-learn`
 3. Open `Titanic_Survival_Prediction.ipynb` in Jupyter Notebook.
 
----
-### **Student Details:**
-* **Name:** Divya Lakshmi S
-* **Roll No:** 23AD14
-* **College:** PSRR College of Engineering
+
