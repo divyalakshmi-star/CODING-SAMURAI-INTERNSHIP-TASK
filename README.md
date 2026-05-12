@@ -9,7 +9,7 @@ Using the classic Titanic dataset, I performed Exploratory Data Analysis (EDA) a
 * **Accuracy Achieved:** 81.01%
 * **Model Used:** Logistic Regression
 * **Data Cleaning:** Handled missing values for 'Age' and 'Embarked' columns.
-* **Feature Selection:** Focused on Pclass, Sex, Age, and SibSp/Parch to drive predictions.
+* **Feature Selection:** Focused on Pclass, Gender, Age, and SibSp/Parch to drive predictions.
 
 ## 🛠️ Tech Stack & Libraries
 * **Language:** Python
