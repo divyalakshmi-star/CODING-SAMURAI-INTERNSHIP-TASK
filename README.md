@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Prediction - Coding Samurai Internship
+# 🚢 Titanic Survival Prediction - Coding Samurai Internship(Project 1)
 
 This repository contains my submission for the Titanic Classification project as part of my Data Science internship at Coding Samurai. The goal is to predict which passengers survived the Titanic shipwreck using Machine Learning.
 
@@ -30,3 +30,24 @@ In this project, I visualized:
 3. Open `Titanic_Survival_Prediction.ipynb` in Jupyter Notebook.
 
 
+---
+
+# 📊  Social Media Sentiment Analysis(project 2)
+
+## 📌 Project Overview
+This project focuses on performing **Sentiment Analysis** on social media text data. Using Python and Natural Language Processing (NLP) techniques, the model analyzes textual data (posts/tweets) and classifies the underlying emotion into three distinct categories: **Positive**, **Negative**, or **Neutral**.
+
+## 🛠️ Tech Stack & Libraries Used
+- **Language:** Python
+- **NLP Library:** TextBlob (for polarity score estimation)
+- **Data Manipulation:** Pandas
+- **Data Visualization:** Matplotlib & Seaborn
+
+## 📈 Key Methodology
+1. **Dataset Creation:** Built a sample social media text dataset reflecting various real-world student and tech-focused scenarios.
+2. **Polarity Calculation:** Utilized `TextBlob` to extract semantic polarity values ranging from -1 (Extremely Negative) to +1 (Extremely Positive).
+3. **Classification Logic:** 
+   - Polarity > 0 $\rightarrow$ **Positive**
+   - Polarity < 0 $\rightarrow$ **Negative**
+   - Polarity == 0 $\rightarrow$ **Neutral**
+4. **Visualization:** Plotted a categorical distribution count plot to clearly visualize the volume of each sentiment.
